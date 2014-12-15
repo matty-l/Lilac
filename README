@@ -1,0 +1,17 @@
+# This is a graphics engine and user interface built in Python and C
+# by Matthew Levine in the fall of 2014. The toplevel file "LilacTk" is a 3D
+# substitute for Tkinter. The toplevel file "DesktopController" runs the 
+# interface. The toplevel file "Demo" provides individual system Demos, some
+# of the earliest of which may be outdated.
+#
+# It includes in "lib" functions  to produce graphics primitives, lighting, 
+# and ray tracing functions.
+#
+# In "Module" it includes Python wrappers on C functions from "lib" and full
+# interface support.
+#
+# In "LiLalg" it includes specialized matrix functions with there own C backend
+# and Python front-end
+#
+# In LiEmmitor it includes the start to Particle system support, including a 
+# C backend and Python front-end

@@ -1,0 +1,3 @@
+# This is the primary directory for C code (and headers, since there's only one)
+# for particle system code. This is separate from the main Lilac engine since
+# it can be run entirely independently, and has its own associated front-end

@@ -1,0 +1,3 @@
+# This is the parent directory for all backend C-code used by the primary graphics engine
+# for Lilac. Linear algebra code and particle system code have separate directories and
+# install files so that they can be compiled and run independently

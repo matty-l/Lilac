@@ -1,0 +1,1 @@
+# In this folder goes textures, bump maps, and saved images if redirected

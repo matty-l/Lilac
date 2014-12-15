@@ -1,0 +1,1 @@
+The DesktopController redirects saved images here

@@ -1,0 +1,5 @@
+# This is the main directory for the Lilac Linear Algebra package which deals
+# entirely and only with 4x4 matrices for use in transformation pipelines. It
+# has its own setup file so that it can be used independently from the Lilac
+# graphics engine, and comes with its own front-end, including logical indexing
+# for matrices

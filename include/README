@@ -1,0 +1,4 @@
+/* The only header that should be included by a component of the Lilac backend is Lilac.h 
+ * Lilac.h will include all other required files. If a file location changes, or the compiler fails
+ * to find a file specified in Lilac.h, adjust the path locations accordingly (paths are absolute)
+*/
